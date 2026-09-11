@@ -49,6 +49,8 @@ By the end of the semester, I aim to:
 
 ## Important dates
 
+See the complete [Fall 2026 class schedule](SCHEDULE.md) for every class meeting, unit, critique, and project milestone.
+
 - September 7 — Last day to add in person with permission number/add card and receive a full refund
 - September 15 — Last day to drop without a W
 - October 10 — Degree/certificate petition deadline
